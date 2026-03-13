@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "潘攀的个人主页",
+    "section": "",
+    "text": "学号：2025303110103\n专业：植物营养学\n兴趣：无\n\n\n\n\n\nR 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "潘攀的个人主页",
+    "section": "",
+    "text": "学号：2025303110103\n专业：植物营养学\n兴趣：无"
+  },
+  {
+    "objectID": "index.html#技能",
+    "href": "index.html#技能",
+    "title": "潘攀的个人主页",
+    "section": "",
+    "text": "R 语言\nPython\nQuarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "我是一名植物营养学的学生，目前正在学习数据分析和机器学习相关知识。\n\n\n\n2025–至今：华中农业大学 · 植物营养学\n\n\n\n\n\n生物大数据分析\n机器学习在医学中的应用\n可重复性科研与可视化报告（使用 Quarto、R、Python）"
+  },
+  {
+    "objectID": "about.html#教育背景",
+    "href": "about.html#教育背景",
+    "title": "关于我",
+    "section": "",
+    "text": "2025–至今：华中农业大学 · 植物营养学"
+  },
+  {
+    "objectID": "about.html#研究兴趣",
+    "href": "about.html#研究兴趣",
+    "title": "关于我",
+    "section": "",
+    "text": "生物大数据分析\n机器学习在医学中的应用\n可重复性科研与可视化报告（使用 Quarto、R、Python）"
+  }
+]
